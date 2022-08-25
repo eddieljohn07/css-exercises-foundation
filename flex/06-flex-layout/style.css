@@ -62,7 +62,11 @@ a {
   justify-content: center;
 }
 
-.footer .left-links {
+.footer{
+  background-color: #eeeeee;
+}
+
+.footer .left-links, .right-links {
   display: flex;
-  gap
+  gap: 20px;
 }
