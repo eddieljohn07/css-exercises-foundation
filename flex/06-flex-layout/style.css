@@ -48,11 +48,13 @@ a {
 .header .left-links {
   display: flex;
   gap: 20px;
+  padding-left: 10px;
 }
 
 .header .right-links {
   display: flex;
   gap: 20px;
+  padding-right: 10px;
 }
 
 .content {
@@ -64,9 +66,17 @@ a {
 
 .footer{
   background-color: #eeeeee;
+  
 }
 
-.footer .left-links, .right-links {
+.footer .left-links {
   display: flex;
   gap: 20px;
+  padding-left: 10px;
+}
+
+.footer .right-links {
+  display: flex;
+  gap: 20px;
+  padding-right: 10px;
 }
