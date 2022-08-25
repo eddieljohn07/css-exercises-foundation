@@ -45,9 +45,6 @@ a {
   display: flex;
   gap: 20px;
   align-items: 
-  display: flex;
-  gap: 20px;
-  align-items: flex-start;
 }
 
 .header .right-links {
