@@ -48,13 +48,11 @@ a {
 .header .left-links {
   display: flex;
   gap: 20px;
-  align-items: 
 }
 
 .header .right-links {
   display: flex;
   gap: 20px;
-  align-items:
 }
 
 .content {
@@ -64,3 +62,7 @@ a {
   justify-content: center;
 }
 
+.footer .left-links {
+  display: flex;
+  gap
+}
